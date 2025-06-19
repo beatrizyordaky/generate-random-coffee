@@ -63,7 +63,8 @@ Create a Google Sheet with the following sheets and columns:
 
 ## Customization
 
-- You can add a button to trigger the script from the Google Sheets UI.  
+- You can add a button to trigger the script from the Google Sheets UI.
+  <img width="1462" alt="image" src="https://github.com/user-attachments/assets/03717541-ceb6-4eeb-abd5-84d111ab2b8a" />
 - Modify the script to support trios or groups if needed.  
 - Change formatting styles within the script for custom visuals.
 
