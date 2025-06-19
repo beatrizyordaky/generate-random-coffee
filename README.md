@@ -1,4 +1,4 @@
-# generateRandomCoffee
+# Random Coffee Generator
 
 ☕ A Random Coffee Pair Generator implemented with Google Apps Script for Google Sheets.
 
