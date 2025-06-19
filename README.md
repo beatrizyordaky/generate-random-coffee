@@ -2,13 +2,9 @@
 
 ☕ A Random Coffee Pair Generator implemented with Google Apps Script for Google Sheets.
 
----
-
 ## Overview
 
 **generateRandomCoffee** helps teams randomly pair participants for informal coffee chats, promoting connection and collaboration. The script reads a list of participants from a Google Sheet, generates unique pairs while avoiding repeats based on previous pairings, and outputs the new pairs directly into the sheet.
-
----
 
 ## Features
 
@@ -18,8 +14,6 @@
 - Handles odd numbers of participants with a notification  
 - Highlights special messages (e.g., unpaired participant) with formatting  
 - Automatically logs new pairs to a history sheet  
-
----
 
 ## Google Sheets Setup
 
@@ -48,8 +42,6 @@ Create a Google Sheet with the following sheets and columns:
 
 *This sheet will be created or overwritten by the script to show the new pairs.*
 
----
-
 ## Installation and Usage
 
 1. Open your Google Sheet.  
@@ -59,8 +51,6 @@ Create a Google Sheet with the following sheets and columns:
 5. Run the `generateRandomCoffee` function (you may need to authorize the script).  
 6. New coffee pairs will appear in the `NewPairs` sheet, and the pairs will be logged in `PreviousPairs`.
 
----
-
 ## Customization
 
 - You can add a button to trigger the script from the Google Sheets UI.
@@ -68,19 +58,13 @@ Create a Google Sheet with the following sheets and columns:
 - Modify the script to support trios or groups if needed.  
 - Change formatting styles within the script for custom visuals.
 
----
-
 ## Contributing
 
 Feel free to open issues or submit pull requests to improve this script!
 
----
-
 ## License
 
 This project is licensed under the MIT License.
-
----
 
 ## Author
 
